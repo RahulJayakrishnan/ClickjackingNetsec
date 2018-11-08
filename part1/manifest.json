@@ -1,0 +1,6 @@
+{
+  "manifest_version": 2,
+  "name": "XSS BLOCKER",
+  "description": "It blocks scripts submitted as text field inputs",
+  "version": "1.0"
+}
